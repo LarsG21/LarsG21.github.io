@@ -1,0 +1,15 @@
+title: Lars Gudjons Portfolio
+logo: /assets/img/logo.png
+show_downloads: true
+theme: jekyll-theme-cayman
+# add a list of all my projects
+# projects:
+#   - title: "Project 1"
+#     description: "This is a description of project 1"
+#     image: /assets/img/project1.png
+#     url: https://www.example.com
+#   - title: "Project 2"
+#     description: "This is a description of project 2"
+#     image: /assets/img/project2.png
+#     url: https://www.example.com
+
